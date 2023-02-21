@@ -1,0 +1,2 @@
+c1 = a_b.split('/')[0]
+print(c1)
