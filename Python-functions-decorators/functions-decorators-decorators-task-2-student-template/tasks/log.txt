@@ -1,0 +1,4 @@
+func_add; args: (10, 20); kwargs: c=40; execution time: 0.2013249397277832 sec.func_add; args: a=10, b=20; kwargs: c=40; execution time: 0.2004991000285372 sec.
+func_add; args: a=10, b=20; kwargs: c=40; execution time: 0.2001335999229923 sec.
+func_add; args: a=10, b=20; kwargs: c=40; execution time: 0.2005444000242278 sec.
+func_add; args: a=10, b=20; kwargs: c=40; execution time: 0.20038569997996092 sec.
